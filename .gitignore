@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+
+# local files
+.env.local
+AGENTS.md
