@@ -115,7 +115,7 @@ export default function Sidebar({
             className="flex items-center gap-2"
           >
             <Image
-              src="/images/d.svg"
+              src="/images/icon.svg"
               alt=""
               width={28}
               height={28}

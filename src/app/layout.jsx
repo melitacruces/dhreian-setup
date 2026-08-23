@@ -71,11 +71,11 @@ export const metadata = {
   manifest: '/manifest.webmanifest',
   icons: {
     icon: [
-      { url: '/images/d.svg', type: 'image/svg+xml' },
+      { url: '/images/icon.svg', type: 'image/svg+xml' },
       { url: '/images/d.png', sizes: '512x512', type: 'image/png' },
     ],
     apple: '/images/d.png',
-    shortcut: '/images/d.svg',
+    shortcut: '/images/icon.svg',
   },
   formatDetection: {
     telephone: false,
