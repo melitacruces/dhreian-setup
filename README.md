@@ -175,7 +175,7 @@ Este proyecto se distribuye bajo la [licencia MIT](LICENSE).
 
 ## Contacto
 
-- **Nombre:** Luis Melita.
+- **Nombre:** Luis Melita Cruces.
 - **Correo:** [melitacruces@gmail.com](mailto:melitacruces@gmail.com).
 - **LinkedIn:** [linkedin.com/in/melitacruces](https://linkedin.com/in/melitacruces).
 - **GitHub:** [github.com/melitacruces](https://github.com/melitacruces).
